@@ -1,0 +1,25 @@
+{
+  "name": "expressassignment",
+  "version": "1.0.0",
+  "description": "this is the assignment :) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g0dgamerz/expressassignment.git"
+  },
+  "author": "Jidesh Govinda Baidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g0dgamerz/expressassignment/issues"
+  },
+  "homepage": "https://github.com/g0dgamerz/expressassignment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
